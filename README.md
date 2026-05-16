@@ -12,16 +12,14 @@ Sou um estudante universitário apaixonado por tecnologia e desenvolvimento de s
 ## 🛠️ Tecnologias e Ferramentas
 
 **Linguagens:**
-- Python
-- JavaScript
-- C
 
-**Backend:**
-- Node.js
+![Linguagens](https://go-skill-icons.vercel.app/api/icons?i=js,c,python)
+
 
 **Ferramentas:**
-- Git & GitHub
-- VS Code
+
+![Ferramentas](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode)
+
 
 ## 📂 Projetos em Destaque
 
@@ -35,3 +33,7 @@ Aqui você encontrará alguns dos meus projetos acadêmicos e pessoais que demon
 ---
 
 ⭐️ Sinta-se livre para explorar meus repositórios e me contactar com oportunidades de colaboração!
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhoncutiletitirico&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhoncutiletitirico&theme=github_dark)
