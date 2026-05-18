@@ -13,12 +13,12 @@ Sou um estudante universitário apaixonado por tecnologia e desenvolvimento de s
 
 **Linguagens:**
 
-![Linguagens](https://go-skill-icons.vercel.app/api/icons?i=js,c,python)
+![Linguagens](https://go-skill-icons.vercel.app/api/icons?i=js,python,c,cpp)
 
 
 **Ferramentas:**
 
-![Ferramentas](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode)
+![Ferramentas](https://go-skill-icons.vercel.app/api/icons?i=git,github,googlecolab,vscode,pycharm,canva)
 
 
 ## 📂 Projetos em Destaque
